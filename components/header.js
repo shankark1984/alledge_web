@@ -34,7 +34,9 @@ class Header extends HTMLElement {
               <nav class="navbar navbar-expand-lg navbar-light bg-white px-4 px-lg-5 py-3 py-lg-0">
                   <a href="index.html" class="navbar-brand p-0">
                       <img src="img/logo.png" alt="Log..o" >
-                      <a class="text-primary mb-0 h2" style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: bold;">AllEdge Soft & Logic</a>
+                      <a class="text-primary mb-0 h2" style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: bold;">AllEdge Soft & Logic 
+                      <p class="text-primary mb-0 h6" style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-align:right;">You Defined We Execute</p></a>
+                      
                   </a>
                   <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
                       <span class="fa fa-bars"></span>
@@ -66,7 +68,7 @@ class Header extends HTMLElement {
                           </div>
                           <a href="contact.html" class="nav-item nav-link">Contact Us</a>
                       </div>
-                      <a href="#" class="btn btn-primary rounded-pill text-white py-2 px-4 flex-wrap flex-sm-shrink-0">Book Appointment</a>
+                      <!--<a href="#" class="btn btn-primary rounded-pill text-white py-2 px-4 flex-wrap flex-sm-shrink-0">GET IN TOUCH</a>-->
                   </div>
               </nav>
   
