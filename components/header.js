@@ -20,10 +20,10 @@ class Header extends HTMLElement {
                 </div>
                 <div class="col-lg-4 text-center text-lg-end">
                     <div class="d-flex align-items-center justify-content-end">
-                        <a href="#" class="btn btn-light btn-square border rounded-circle nav-fill me-3"><i class="fab fa-facebook-f"></i></a>
-                        <a href="#" class="btn btn-light btn-square border rounded-circle nav-fill me-3"><i class="fab fa-twitter"></i></a>
+                        <a href="https://www.facebook.com/alledgesoftlogic" class="btn btn-light btn-square border rounded-circle nav-fill me-3"><i class="fab fa-facebook-f"></i></a>
+                        <a href="https://x.com/shankark1984" class="btn btn-light btn-square border rounded-circle nav-fill me-3"><i class="fab fa-twitter"></i></a>
                         <a href="#" class="btn btn-light btn-square border rounded-circle nav-fill me-3"><i class="fab fa-instagram"></i></a>
-                        <a href="#" class="btn btn-light btn-square border rounded-circle nav-fill me-0"><i class="fab fa-linkedin-in"></i></a>
+                        <a href="https://www.linkedin.com/company/42840311/admin/inbox/" class="btn btn-light btn-square border rounded-circle nav-fill me-0"><i class="fab fa-linkedin-in"></i></a>
                     </div>
                 </div>
             </div>
@@ -51,9 +51,9 @@ class Header extends HTMLElement {
                               <a href="freightforwarding.html" class="dropdown-item">Freight Forwarding</a>
                               <a href="warehousing.html" class="dropdown-item">Warehousing</a>
                               <a href="distribution.html" class="dropdown-item">Distribution</a>
-                              <a href="valueadded.html" class="dropdown-item">Value Added</a>
                               <a href="softwaredevelopment.html" class="dropdown-item">Software Development</a>
                               <a href="hardware.html" class="dropdown-item">Hardware Installations and Maintenance</a>
+                              <a href="valueadded.html" class="dropdown-item">Value Added</a>
                           </div>
                           </div>
                           
@@ -64,6 +64,7 @@ class Header extends HTMLElement {
                                   <a href="feature.html" class="dropdown-item">Features</a>
                                   <a href="blog.html" class="dropdown-item">Our Blog</a>
                                   <a href="team.html" class="dropdown-item">Our Team</a>
+                                  <a href="termsconditions.html" class="dropdown-item">Terms & Conditions</a>
                               </div>
                           </div>
                           <a href="contact.html" class="nav-item nav-link">Contact Us</a>

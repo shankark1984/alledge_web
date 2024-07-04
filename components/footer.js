@@ -20,32 +20,34 @@ class Footer extends HTMLElement {
                             </p>
                             <div class="d-flex align-items-center">
                                 <i class="fas fa-share fa-2x text-white me-2"></i>
-                                <a class="btn-square btn btn-primary text-white rounded-circle mx-1" href=""><i class="fab fa-facebook-f"></i></a>
+                                <a class="btn-square btn btn-primary text-white rounded-circle mx-1" href="https://www.facebook.com/alledgesoftlogic"><i class="fab fa-facebook-f"></i></a>
                                 <a class="btn-square btn btn-primary text-white rounded-circle mx-1" href=""><i class="fab fa-twitter"></i></a>
                                 <a class="btn-square btn btn-primary text-white rounded-circle mx-1" href=""><i class="fab fa-instagram"></i></a>
-                                <a class="btn-square btn btn-primary text-white rounded-circle mx-1" href=""><i class="fab fa-linkedin-in"></i></a>
+                                <a class="btn-square btn btn-primary text-white rounded-circle mx-1" href="https://www.linkedin.com/company/42840311/admin/inbox/"><i class="fab fa-linkedin-in"></i></a>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-6 col-xl-3">
                         <div class="footer-item d-flex flex-column">
                             <h4 class="mb-4 text-white">Quick Links</h4>
-                            <a href=""><i class="fas fa-angle-right me-2"></i> About Us</a>
-                            <a href=""><i class="fas fa-angle-right me-2"></i> Contact Us</a>
-                            <a href=""><i class="fas fa-angle-right me-2"></i> Privacy Policy</a>
-                            <a href=""><i class="fas fa-angle-right me-2"></i> Terms & Conditions</a>
-                            <a href=""><i class="fas fa-angle-right me-2"></i> Our Blog & News</a>
-                            <a href=""><i class="fas fa-angle-right me-2"></i> Our Team</a>
+                            <a href="about.html"><i class="fas fa-angle-right me-2"></i> About Us</a>
+                            <a href="contact.html"><i class="fas fa-angle-right me-2"></i> Contact Us</a>
+                            <a href="privacypolicy.html"><i class="fas fa-angle-right me-2"></i> Privacy Policy</a>
+                            <a href="termsconditions.html"><i class="fas fa-angle-right me-2"></i> Terms & Conditions</a>
+                            <a href="blog.html"><i class="fas fa-angle-right me-2"></i> Our Blog & News</a>
+                            <a href="team.html"><i class="fas fa-angle-right me-2"></i> Our Team</a>
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-6 col-xl-3">
                         <div class="footer-item d-flex flex-column">
                             <h4 class="mb-4 text-white">AllEdge Services</h4>
-                            <a href=""><i class="fas fa-angle-right me-2"></i> Air Freight</a>
-                            <a href=""><i class="fas fa-angle-right me-2"></i> Ocean Freight</a>
-                            <a href=""><i class="fas fa-angle-right me-2"></i> Railway Freight</a>
-                            <a href=""><i class="fas fa-angle-right me-2"></i> Warehousing</a>
-                            <a href=""><i class="fas fa-angle-right me-2"></i> Distribution</a>
+                            <a href="freightforwarding.html"><i class="fas fa-angle-right me-2"></i> Freight Forwarding</a>
+                            <a href="warehousing.html"><i class="fas fa-angle-right me-2"></i> Warehousing</a>
+                            <a href="freightforwarding.html"><i class="fas fa-angle-right me-2"></i> Customs Clearance</a>
+                            <a href="distribution.html"><i class="fas fa-angle-right me-2"></i> Distribution</a>
+                            <a href="softwaredevelopment.html"><i class="fas fa-angle-right me-2"></i> Cloud Services</a>
+                            <a href="softwaredevelopment.html"><i class="fas fa-angle-right me-2"></i> Software Development</a>
+                            <a href="hardware.html"><i class="fas fa-angle-right me-2"></i> IT Solutions</a>
                             <a href=""><i class="fas fa-angle-right me-2"></i> Value Added</a>
                         </div>
                     </div>
